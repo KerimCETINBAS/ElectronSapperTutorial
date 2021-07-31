@@ -1,0 +1,1 @@
+export default Boolean(parseInt(process.env.DEV)) 
